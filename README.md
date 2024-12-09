@@ -2,8 +2,18 @@
 
 The Automated Acid Diluting System is an advanced microcontroller-based solution designed to revolutionize acid dilution processes in laboratory environments. By addressing critical safety challenges and introducing precise automation, this system represents a significant leap forward in chemical handling technology.
 
-
 ![alt text](https://github.com/darkgrecher/Automated_Acid_Diluting_System/blob/2a23423491a09dfd956d9208ffddfa4a98f85b98/Demo/demo01.jpg)
+
+
+
+https://github.com/user-attachments/assets/80895124-37fe-46e5-9f64-0053e5f4dadd
+
+
+
+
+
+
+
 
 ## 📋 Table of Contents
 
